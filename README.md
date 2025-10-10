@@ -5,13 +5,15 @@
 
 I'm currently pursuing a BTech in Metallurgical Engineering and Material Sciences from IIT Indore. I'm interested in pursuing computational methods in material science; and I'm passionate about Quantum Computing and Data Science, and how these techniques can be utilised to supplement, and be supplemented by my core engineering speciality.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arhamaneeq&layout=compact&hide=jupyter%20notebook,css,scss,html,ts)
+
 ### Research Interests
 - 🧠 ML Techniques for Materials Characterisation
 - ⚛️ Quantum Algorithms & Quantum Hardware
 - 📊 Materials Informatics & High Throughput Screening
 
 ### Tech Stack
-- **LANGUAGES** `Python` `C++` `Java` `Haskell` `Rust`
+- **LANGUAGES** `Python` `C++` `Haskell` `Rust` `Fortran`
 - **QUANTUM COMPUTING** `Qiskit` `Pennylane` `OpenQASM 3.0`
 - **WEBDEV** `JavaScript/TypeScript` `React` `Node` `Sass`
 - **MATSCI** `Materials Project` `Matminer` `pymatgen`
