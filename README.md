@@ -15,8 +15,8 @@ I'm currently pursuing a BTech in Metallurgical Engineering and Material Science
 ### Tech Stack
 - **LANGUAGES** `Python` `C++` `Haskell` `Rust` `Fortran`
 - **QUANTUM COMPUTING** `Qiskit` `Pennylane` `OpenQASM 3.0`
-- **WEBDEV** `JavaScript/TypeScript` `React` `Node` `Sass`
-- **MATSCI** `Materials Project` `Matminer` `pymatgen`
+- **MATSCI** `Materials Project` `Matminer` `pymatgen` `FEniCSx` `Gmsh`
+- **DATA SCIENCE** `Pandas` `PyTorch` `SciKit`
 - **DESIGN** `Figma` `Inkscape` `GIMP`
 
 ### Let's Connect!
